@@ -6,7 +6,7 @@ This repositiory containes the implementation Method proposed for **Image Inpait
 
 
 ## Corrupted Image :
-  ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)
+  ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)                                             ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)
 
 
 ## Recovered Image :
