@@ -16,3 +16,6 @@ This repositiory containes the implementation Method proposed for **Image Inpait
   ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)
 
 > The code is inspired from the [Official implementation](https://github.com/DmitryUlyanov/deep-image-prior) of *dmitry et al.* 
+
+
+![alt-text-1](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png "title-1") ![alt-text-2](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg "title-2")
