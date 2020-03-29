@@ -25,7 +25,7 @@ This repositiory containes the PyTroch implementations of Methods proposed for *
 
 ## Ablation study for Image Denoising
 
-> Note: The random(gaussian) noise is added in the same image ranging from 10% to 80%. In other words percentage number of pixels were removed from ground truth image in order to make the image noisy.
+> **_Note_**: The random(gaussian) noise is added in the same image ranging from 10% to 80%. In other words percentage number of pixels were removed from ground truth image in order to make the image noisy.
 
 
 | **Noisy Images** |  **Denoised Images** |            
