@@ -15,11 +15,10 @@ This repositiory containes the PyTroch implementations of Methods proposed for *
 
 | **Corrupted Images** |  **Recovered Images** |            
 | ------------- | ------------- |
-|      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)       |
+|      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/corrupted_img_kate.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/model_output.jpg?raw=true)       |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/corrupted_img_bhavesh.png)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/bhavesh_recovered.png)     |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/vase.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/vase_recovered.png?raw=true)       |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/corrupted_img_library.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/library_recovered.png?raw=true)       |
-|      Content Cell       |      Content Cell       |
 
 
 
