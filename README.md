@@ -37,8 +37,7 @@ This repositiory containes the PyTroch implementations of Methods proposed for *
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_6.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_6.png?raw=true)       |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_7.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_7.png?raw=true)       |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_8.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_8.png?raw=true)       |
-|      Content Cell       |      Content Cell       |
-|      Content Cell       |      Content Cell       | 
+
 
 
 
