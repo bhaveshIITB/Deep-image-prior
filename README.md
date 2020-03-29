@@ -1,7 +1,7 @@
 # Deep Image Prior
 
 
-This repositiory containes the implementation Methods proposed for **Image Inpaiting** and **Image Denoising** in paper [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) by *Dmitry et al.* .
+This repositiory containes the PyTroch implementations of Methods proposed for **Image Inpaiting** and **Image Denoising** in the paper [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) by *Dmitry et al.* .
 
 
 > **Network used** : Custom U-Net(Encoder-Decoder type)\
