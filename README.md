@@ -1,7 +1,7 @@
 # Deep Image Prior
 
 
-This repositiory containes the implementation Method proposed for **Image Inpaiting** in paper [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) by *Dmitry et al.* .
+This repositiory containes the implementation Methods proposed for **Image Inpaiting** and **Image Denoising** in paper [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) by *Dmitry et al.* .
 
 
 > **Network used** : Custom U-Net(Encoder-Decoder type)\
@@ -25,7 +25,10 @@ This repositiory containes the implementation Method proposed for **Image Inpait
 
 ## Ablation study for Image Denoising
 
-| **Corrupted Images** |  **Recovered Images** |            
+> Note: The random(gaussian) noise is added in the same image ranging from 10% to 80%. In other words percentage number of pixels were removed from ground truth image in order to make the image noisy.
+
+
+| **Noisy Images** |  **Denoised Images** |            
 | ------------- | ------------- |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_1.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_1.png?raw=true)       |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_2.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_2.png?raw=true)       |
@@ -37,6 +40,7 @@ This repositiory containes the implementation Method proposed for **Image Inpait
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Denoising/kate_corrupted_8.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Denoising/recovered_kate_8.png?raw=true)       |
 |      Content Cell       |      Content Cell       |
 |      Content Cell       |      Content Cell       |
+
 
 
 
