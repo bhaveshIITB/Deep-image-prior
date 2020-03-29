@@ -21,7 +21,7 @@ This repositiory containes the implementation Method proposed for **Image Inpait
 ![alt-text-1](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png "title-1") </t></t>![alt-text-2](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg "title-2")
 
 
-| Corrupted Image  |
+| Corrupted Image |  Recovered Images |            
 | ------------- | ------------- |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)       |
 |      Content Cell       |      Content Cell       |
