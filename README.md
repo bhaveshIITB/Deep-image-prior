@@ -11,17 +11,16 @@ This repositiory containes the implementation Method proposed for **Image Inpait
 > **_Note_** : While calculating the loss the mask is added to the output image too. so that effective loss is calculated over the Uncorrupted region and model learns the prior for the corrupted region.
 
 
-## Corrupted Image :                                     Recovered Image:
-  ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)                                          
-  ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)
+## Ablation study for Image Inpainting
 
-> The code is inspired from the [Official implementation](https://github.com/DmitryUlyanov/deep-image-prior) of *dmitry et al.* 
-
-
-![alt-text-1](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png "title-1") </t></t>![alt-text-2](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg "title-2")
-
-
-| Corrupted Image |  Recovered Images |            
+| **Corrupted Image** |  **Recovered Images** |            
 | ------------- | ------------- |
 |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/corrupted_img.png)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/model_output.jpg)       |
+|      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/corrupted_img_bhavesh.png)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/bhavesh_recovered.png)     |
+|      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/vase.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/vase_recovered.png?raw=true)       |
+|      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Data/Inpainting/corrupted_img_library.png?raw=true)       |      ![](https://github.com/bhaveshIITB/Deep-image-prior/blob/master/Results/Inpainting/library_recovered.png?raw=true)       |
 |      Content Cell       |      Content Cell       |
+
+
+
+> The code is inspired from the [Official implementation](https://github.com/DmitryUlyanov/deep-image-prior) of *dmitry et al.* 
